@@ -1,4 +1,4 @@
-# Estadistica-Multivariante-Aplicada a la Ecología
+# Estadística-Multivariante-Aplicada a la Ecología
 
 Estadística Multivariante Aplicada: Análisis de Comunidades Ecológicas
 
