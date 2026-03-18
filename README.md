@@ -38,7 +38,7 @@ Validación estadística de diferencias entre grupos
 
 ## Tecnologías y Bibliotecas:
 
-Plataformas RStudio, Google Colab, Visual Studio Code, con Leniaje R con paquetes especializados: vegan, ggplot2, ggrepel, cluster, indicspecies
+Plataformas RStudio, Google Colab, Visual Studio Code, empleando Lenguaje R con paquetes especializados: vegan, ggplot2, ggrepel, cluster, indicspecies
 Para la construccipon de Proyectos de Investigacion aplicando Estadistica con R.
 Enfoque reproducible y documentado para enseñanza.
 
