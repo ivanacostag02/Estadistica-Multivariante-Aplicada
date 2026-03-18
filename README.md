@@ -8,7 +8,8 @@ Repositorio educativo con ejercicios prácticos de métodos multivariantes avanz
 
 #  Contenido:
 
-3 módulos teóricos (PDF): Datos ambientales, relaciones especies-ambiente, gradientes ecológicos
+3 módulos teóricos (PDF): Datos Ambientales, Relaciones Especies-Ambiente, Gradientes Ecológicos
+
 4 ejercicios prácticos (R):
 
 ## Ejercicio 1 -Ordenación: PCA vs CA
