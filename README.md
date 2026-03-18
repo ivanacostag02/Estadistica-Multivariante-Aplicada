@@ -43,11 +43,11 @@ Enfoque reproducible y documentado para enseñanza.
 
 ## Competencias Desarrolladas en el Estudiante:
 
-✓ Diseño and ejecución de Análisis Multivariantes
-✓ Interpretación de Ordenaciones Ecológicas
-✓ Visualización Avanzada de Datos Complejos
-✓ Toma de Decisiones Metodológicas Basadas en Características de Datos
-✓ Pruebas de Hipótesis no Paramétricas
-✓ Programación Reproducible en Ecología Estadística
+•	Diseño and ejecución de Análisis Multivariantes
+•	Interpretación de Ordenaciones Ecológicas
+•	Visualización Avanzada de Datos Complejos
+•	Toma de Decisiones Metodológicas Basadas en Características de Datos
+•	Pruebas de Hipótesis no Paramétricas
+•	Programación Reproducible en Ecología Estadística
 
 Licencia: MIT License - El código es de libre uso, modificación y distribución con atribución.
