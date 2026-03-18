@@ -354,7 +354,8 @@ Este material demuestra **excelencia en enseñanza de métodos avanzados:**
 
 ## 👨‍🎓 Docente/Autor
 
-**[Tu Nombre], [Credenciales]**
+**Ing. Ivan Acosta, Mgs.**
+**Magister en Big data y Ciencia de Datos**
 
 Especialista en Estadística Aplicada y Ecología Cuantitativa
 - Experiencia en investigación multidisciplinaria
@@ -381,7 +382,7 @@ Para consultas sobre:
 - Preguntas sobre metodología
 - Implementación en programas académicos
 
-Contactar al autor/docente
+Contactar al autor  ivanacostag02@gmail.com
 
 ---
 
