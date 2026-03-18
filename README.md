@@ -355,7 +355,7 @@ Este material demuestra **excelencia en enseñanza de métodos avanzados:**
 ## 👨‍🎓 Docente/Autor
 
 **Ing. Ivan Acosta, Mgs.**
-**Magister en Big data y Ciencia de Datos**
+**Magister Sistemas, Big data y Ciencia de Datos**
 
 Especialista en Estadística Aplicada y Ecología Cuantitativa
 - Experiencia en investigación multidisciplinaria
