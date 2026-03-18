@@ -37,8 +37,9 @@ Validación estadística de diferencias entre grupos
 
 ## Tecnologías y Bibliotecas:
 
-R Core con paquetes especializados: vegan, ggplot2, ggrepel, cluster, indicspecies
-Enfoque reproducible y documentado para enseñanza
+Plataformas RStudio, Google Colab, Visual Studio Code, con Leniaje R con paquetes especializados: vegan, ggplot2, ggrepel, cluster, indicspecies
+Para la construccipon de Proyectos de Investigacion aplicando Estadistica con R.
+Enfoque reproducible y documentado para enseñanza.
 
 ## Competencias Desarrolladas en el Estudiante:
 
